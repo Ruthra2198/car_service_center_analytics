@@ -38,7 +38,7 @@ The dataset includes:
 
 ## 🔄 Project Workflow
 
-### 1️⃣ Data Cleaning & Analysis(SQL, Python)
+### Data Cleaning & Analysis(SQL, Python)
 - Removed duplicates  
 - Checked for missing values  
 - Standardized service types and booking types  
@@ -46,7 +46,7 @@ The dataset includes:
 - Revenue distribution by service type  
 - Booking trends (appointment vs walk-in)  
 
-### 3️⃣ Data Visualization (Power BI)
+### Data Visualization (Power BI)
 Created an interactive dashboard with:
 - Cards 
 - Charts 
@@ -81,5 +81,5 @@ This project helped in understanding real-world business problems and applying d
 ---
 
 ## 🔗 Author
-**Ruthra**  ![profile link](https://github.com/Ruthra2198)
-![project link](https://github.com/Ruthra2198/car_service_center_analytics)
+**Ruthra** (https://github.com/Ruthra2198)
+**Project Link** (https://github.com/Ruthra2198/car_service_center_analytics)
