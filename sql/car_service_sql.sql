@@ -48,14 +48,6 @@ SELECT AVG(DATEDIFF(delivery_date, service_date)) AS avg_service_days
 FROM service_data;
 
 SELECT booking_type,
-AVG(DATEDIFF(
-STR_TO_DATE(delivery_date,'%Y-%m-%d'),
-STR_TO_DATE(service_date,'%Y-%m-%d')
-)) AS avg_days
-FROM service_data
-GROUP BY booking_type;
-
-SELECT booking_type,
 AVG(DATEDIFF(delivery_date, service_date)) AS avg_days
 FROM service_data
 GROUP BY booking_type;
